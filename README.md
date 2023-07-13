@@ -28,8 +28,11 @@
 
 - 해당 Repository를 git clone
 
+- 개발 환경 복제
+~~~bash
 -conda env create --file environment.yaml
 conda activate environment
+~~~
 
 - 상단 Depth Estimation GitHub에서 Joint_S3D_Fres 파일 다운로드 후 inference 폴더로 이동
 
