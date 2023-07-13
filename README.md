@@ -20,8 +20,6 @@
 - Point Cloud 추출 및 Mesh 생성
 	- Depth map 기반으로 추출한 Point Cloud에서 Ball Pivoting 기법을 통하여 Mesh 생성
 	
-- Unity 빌드
-	- Interaction을 표현하기 위해 Unity Project에 
 	
 ----------
 ### 2. 프로젝트 실행방법
