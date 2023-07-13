@@ -1,6 +1,8 @@
 # A-framework-and-Its-Implementation-for-Interactive-2D-Panorama-Image-Generation
 # 상호작용 가능한 2차원, Panorama 영상 생성을 위한 프레임워크와 그 구현
 
+본 프로젝트는 RTX 3090(cuda 11.3) 환경에서 개발되었음.
+
 ------------
 
 ### 1. 프로젝트 진행 과정
@@ -25,6 +27,9 @@
 ### 2. 프로젝트 실행방법
 
 - 해당 Repository를 git clone
+
+-conda env create --file environment.yaml
+conda activate environment
 
 - 상단 Depth Estimation GitHub에서 Joint_S3D_Fres 파일 다운로드 후 inference 폴더로 이동
 
