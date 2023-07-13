@@ -1,5 +1,5 @@
 # A-framework-and-Its-Implementation-for-Interactive-2D-Panorama-Image-Generation
-# 상호작용 가능한 2차원, Panorama 영상 생성을 위한 프레임워크와 그 구현
+## 상호작용 가능한 2차원, Panorama 영상 생성을 위한 프레임워크와 그 구현
 
 본 프로젝트는 RTX 3090(cuda 11.3) 환경에서 개발되었음.
 
