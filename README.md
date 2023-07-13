@@ -28,7 +28,7 @@
 
 - 개발 환경 복제
 ~~~bash
--conda env create --file environment.yaml
+conda env create --file environment.yaml
 conda activate environment
 ~~~
 
